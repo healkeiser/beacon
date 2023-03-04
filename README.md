@@ -14,10 +14,8 @@
 <br />
 <div align="center">
   <a href="https://github.com/healkeiser/cloud_vfx_server">
-    <img src="https://zupimages.net/up/23/09/hrf3.png" alt="Logo" width="200" >
+    <img src="https://zupimages.net/up/23/09/r7we.png" alt="Logo" width="200" >
   </a>
-  
-![GitHub-Mark-Light](https://zupimages.net/up/23/09/r7we.png#gh-dark-mode-only)![GitHub-Mark-Dark](https://zupimages.net/up/23/09/hrf3.png#gh-light-mode-only)
 
   <h3 align="center">Beacon</h3>
 
